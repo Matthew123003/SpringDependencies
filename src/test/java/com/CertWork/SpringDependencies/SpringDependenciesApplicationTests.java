@@ -1,4 +1,4 @@
-package com.CertWork.FCCCertWork;
+package com.CertWork.SpringDependencies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

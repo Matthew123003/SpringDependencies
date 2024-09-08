@@ -1,6 +1,5 @@
-package com.CertWork.FCCCertWork;
+package com.CertWork.SpringDependencies;
 
-import com.CertWork.SpringDependencies.SpringDependenciesApplication;
 import org.springframework.boot.SpringApplication;
 
 public class TestFccCertWorkApplication {
